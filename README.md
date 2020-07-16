@@ -7,7 +7,7 @@
 <h1>Demo</h1>
 <pre>
 <li style="display:flex;">
-<img src="./assets/screenshots/drawerslide.jpg" />
+<img src="./assets/screenshot/drawerslide.jpg" />
 </li>
 </pre>
 <h2>
